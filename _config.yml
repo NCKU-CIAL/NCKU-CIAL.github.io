@@ -1,9 +1,9 @@
 # Site settings
-title: NCKU CSIE 網管日誌
-description: '機房申請、雲端申請、連線檢查' # this means to ignore newlines until "baseurl:"
+title: NCKU CSIE CIAL
+description: '實驗室須知' # this means to ignore newlines until "baseurl:"
 permalink: ':categories:title:month:day'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jiachanggit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://NCKU-CIAL.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/NCKU.png"
 logo-icon: "/assets/img/branding/CSIE.png"
 logo-icon-SEO: "/assets/img/branding/CSIE.png" # must be a non SVG file
@@ -29,9 +29,9 @@ author-pic: author-pic.jpg
 about-author: Human
 
 # Contact links
-email: vowevogds@mozmail.com, p76124265@gs.ncku.edu.tw # Add your Email address
+email: p76121110@gs.ncku.edu.tw, p76124265@gs.ncku.edu.tw # Add your Email address
 phone: # Add your Phone number
-website: https://jiachanggit.github.io # Add your website
+website: https://NCKU-CIAL.github.io # Add your website
 linkedin: jia81920
 github: JiaChangGit # Add your Github handle
 twitter:  # Add your Twitter handle
